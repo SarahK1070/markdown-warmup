@@ -1,7 +1,7 @@
 # markdown-warmup
 BeCode La Prairie Group Exercise
 
-
+![image](http://www.e-monsite.com/s/2010/02/06/nosamisleslapin//12678914photo-logo-jpg.jpg)
  - Wich site website ?
  
 
